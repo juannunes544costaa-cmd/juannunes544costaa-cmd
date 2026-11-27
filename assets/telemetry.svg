@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 285" role="img" aria-label="Telemetria pública do GitHub">
+<rect x="1" y="1" width="898" height="283" rx="14" fill="#091724" stroke="#2185a4"/>
+<g font-family="monospace">
+<text x="28" y="36" fill="#46dcf4" font-size="16" letter-spacing="2">// PUBLIC TELEMETRY</text>
+<rect x="28" y="53" width="272" height="88" rx="7" fill="#10283a" stroke="#23546a"/>
+<text x="43" y="76" fill="#9bc3d2" font-size="12">REPOSITÓRIOS</text>
+<text x="43" y="120" fill="#e7fbff" font-size="37" font-weight="bold">—</text>
+<rect x="314" y="53" width="272" height="88" rx="7" fill="#10283a" stroke="#23546a"/>
+<text x="329" y="76" fill="#9bc3d2" font-size="12">ESTRELAS</text>
+<text x="329" y="120" fill="#e7fbff" font-size="37" font-weight="bold">—</text>
+<rect x="600" y="53" width="272" height="88" rx="7" fill="#10283a" stroke="#23546a"/>
+<text x="615" y="76" fill="#9bc3d2" font-size="12">FORKS RECEBIDOS</text>
+<text x="615" y="120" fill="#e7fbff" font-size="37" font-weight="bold">—</text>
+<text x="28" y="169" fill="#46dcf4" font-size="14">LINGUAGEM PRINCIPAL / POR REPOSITÓRIO</text>
+<text x="28" y="205" font-size="13" fill="#9bc3d2">Sem dados de linguagem disponíveis.</text>
+<text x="28" y="260" font-size="12" fill="#9bc3d2">Aguardando primeira execução</text>
+<text x="872" y="260" font-size="12" text-anchor="end" fill="#46dcf4">GITHUB / PUBLIC DATA</text>
+</g></svg>
