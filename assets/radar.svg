@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 110"><rect x="1" y="1" width="898" height="108" rx="12" fill="#091724" stroke="#2185a4"/><g font-family="monospace"><text x="28" y="36" font-size="18" fill="#46dcf4">// PROJECT RADAR</text><text x="28" y="75" font-size="15" fill="#c6dce5">Aguardando sincronização pública.</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" role="img" aria-label="Radar de projetos públicos">
+<rect x="1" y="1" width="898" height="178" rx="14" fill="#091724" stroke="#2185a4"/>
+<g font-family="monospace">
+<text x="28" y="34" font-size="18" fill="#46dcf4">// PROJECT RADAR</text>
+<text x="28" y="61" font-size="15" fill="#c6dce5">1 projetos públicos • 0 com push nos últimos 30 dias</text>
+<rect x="28" y="75" width="844" height="58" rx="6" fill="#10283a" stroke="#23546a"/>
+<text x="43" y="97" font-size="17" fill="#e7fbff">projeto-2</text>
+<text x="43" y="119" font-size="13" fill="#c6dce5">Sem linguagem | push: 2026-08-13 | estrelas: 0</text>
+<text x="28" y="166" font-size="12" fill="#79cde1">Ordenado por último push • até 6 projetos • perfil excluído</text>
+</g></svg>

@@ -1,1 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 110"><rect x="1" y="1" width="898" height="108" rx="12" fill="#091724" stroke="#2185a4"/><g font-family="monospace"><text x="28" y="36" font-size="18" fill="#46dcf4">// ACTIVITY MATRIX / 28D</text><text x="28" y="75" font-size="15" fill="#c6dce5">Aguardando sincronização pública.</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 285" role="img" aria-label="Atividade pública observada nos últimos 28 dias">
+<rect x="1" y="1" width="898" height="283" rx="14" fill="#091724" stroke="#2185a4"/>
+<g font-family="monospace">
+<text x="28" y="34" font-size="18" fill="#46dcf4">// ACTIVITY MATRIX / 28D</text>
+<rect x="28" y="49" width="202" height="62" rx="6" fill="#10283a" stroke="#23546a"/>
+<text x="40" y="68" font-size="12" fill="#79cde1">EVENTOS</text>
+<text x="40" y="98" font-size="25" fill="#e7fbff">0</text>
+<rect x="242" y="49" width="202" height="62" rx="6" fill="#10283a" stroke="#23546a"/>
+<text x="254" y="68" font-size="12" fill="#79cde1">PUSH EVENTS</text>
+<text x="254" y="98" font-size="25" fill="#e7fbff">0</text>
+<rect x="456" y="49" width="202" height="62" rx="6" fill="#10283a" stroke="#23546a"/>
+<text x="468" y="68" font-size="12" fill="#79cde1">PR EVENTS</text>
+<text x="468" y="98" font-size="25" fill="#e7fbff">0</text>
+<rect x="670" y="49" width="202" height="62" rx="6" fill="#10283a" stroke="#23546a"/>
+<text x="682" y="68" font-size="12" fill="#79cde1">DIAS ATIVOS</text>
+<text x="682" y="98" font-size="25" fill="#e7fbff">0</text>
+<rect x="28" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-10-31: 0 eventos observados</title></rect>
+<rect x="58" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-01: 0 eventos observados</title></rect>
+<rect x="88" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-02: 0 eventos observados</title></rect>
+<rect x="118" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-03: 0 eventos observados</title></rect>
+<rect x="148" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-04: 0 eventos observados</title></rect>
+<rect x="178" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-05: 0 eventos observados</title></rect>
+<rect x="208" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-06: 0 eventos observados</title></rect>
+<rect x="238" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-07: 0 eventos observados</title></rect>
+<rect x="268" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-08: 0 eventos observados</title></rect>
+<rect x="298" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-09: 0 eventos observados</title></rect>
+<rect x="328" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-10: 0 eventos observados</title></rect>
+<rect x="358" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-11: 0 eventos observados</title></rect>
+<rect x="388" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-12: 0 eventos observados</title></rect>
+<rect x="418" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-13: 0 eventos observados</title></rect>
+<rect x="448" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-14: 0 eventos observados</title></rect>
+<rect x="478" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-15: 0 eventos observados</title></rect>
+<rect x="508" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-16: 0 eventos observados</title></rect>
+<rect x="538" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-17: 0 eventos observados</title></rect>
+<rect x="568" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-18: 0 eventos observados</title></rect>
+<rect x="598" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-19: 0 eventos observados</title></rect>
+<rect x="628" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-20: 0 eventos observados</title></rect>
+<rect x="658" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-21: 0 eventos observados</title></rect>
+<rect x="688" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-22: 0 eventos observados</title></rect>
+<rect x="718" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-23: 0 eventos observados</title></rect>
+<rect x="748" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-24: 0 eventos observados</title></rect>
+<rect x="778" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-25: 0 eventos observados</title></rect>
+<rect x="808" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-26: 0 eventos observados</title></rect>
+<rect x="838" y="142" width="25" height="36" rx="3" fill="#163145"><title>2026-11-27: 0 eventos observados</title></rect>
+<rect x="28" y="138" width="25" height="44" rx="4" fill="none" stroke="#e7fbff" stroke-width="1.4" opacity=".8"><animate attributeName="x" values="28;838;28" dur="8s" repeatCount="indefinite"/></rect>
+<text x="28" y="199" font-size="12" fill="#c6dce5">2026-10-31</text>
+<text x="745" y="199" font-size="12" fill="#c6dce5">2026-11-27</text>
+<text x="28" y="228" font-size="13" fill="#79cde1">Matriz: um quadrado por dia • intensidade = eventos observados</text>
+<text x="28" y="250" font-size="12" fill="#c6dce5">Amostra de até 300 eventos públicos recentes; não equivale a commits/contribuições.</text>
+<text x="28" y="269" font-size="12" fill="#c6dce5">Somente eventos do titular em projetos públicos próprios; perfil excluído.</text>
+</g></svg>
