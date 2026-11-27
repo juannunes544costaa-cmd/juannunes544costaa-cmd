@@ -4,15 +4,17 @@
 <text x="28" y="36" fill="#46dcf4" font-size="16" letter-spacing="2">// PUBLIC TELEMETRY</text>
 <rect x="28" y="53" width="272" height="88" rx="7" fill="#10283a" stroke="#23546a"/>
 <text x="43" y="76" fill="#9bc3d2" font-size="12">REPOSITÓRIOS</text>
-<text x="43" y="120" fill="#e7fbff" font-size="37" font-weight="bold">—</text>
+<text x="43" y="120" fill="#e7fbff" font-size="37" font-weight="bold">2</text>
 <rect x="314" y="53" width="272" height="88" rx="7" fill="#10283a" stroke="#23546a"/>
 <text x="329" y="76" fill="#9bc3d2" font-size="12">ESTRELAS</text>
-<text x="329" y="120" fill="#e7fbff" font-size="37" font-weight="bold">—</text>
+<text x="329" y="120" fill="#e7fbff" font-size="37" font-weight="bold">0</text>
 <rect x="600" y="53" width="272" height="88" rx="7" fill="#10283a" stroke="#23546a"/>
 <text x="615" y="76" fill="#9bc3d2" font-size="12">FORKS RECEBIDOS</text>
-<text x="615" y="120" fill="#e7fbff" font-size="37" font-weight="bold">—</text>
+<text x="615" y="120" fill="#e7fbff" font-size="37" font-weight="bold">0</text>
 <text x="28" y="169" fill="#46dcf4" font-size="14">LINGUAGEM PRINCIPAL / POR REPOSITÓRIO</text>
-<text x="28" y="205" font-size="13" fill="#9bc3d2">Sem dados de linguagem disponíveis.</text>
-<text x="28" y="260" font-size="12" fill="#9bc3d2">Aguardando primeira execução</text>
+<rect x="28.00" y="185" width="844.00" height="13" fill="#46dcf4"/>
+<circle cx="33" cy="221" r="4" fill="#46dcf4"/>
+<text x="43" y="225" font-size="12" fill="#c6dce5">Python 1</text>
+<text x="28" y="260" font-size="12" fill="#9bc3d2">27/11/2026 04:36 UTC</text>
 <text x="872" y="260" font-size="12" text-anchor="end" fill="#46dcf4">GITHUB / PUBLIC DATA</text>
 </g></svg>
