@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" role="img" aria-label="Terminal JARVIS v2.0">
+<defs><clipPath id="typing"><rect width="0" height="32" x="45" y="70"><animate attributeName="width" values="0;810;810" keyTimes="0;.55;1" dur="7s" repeatCount="indefinite"/></rect></clipPath></defs>
+<rect x="1" y="1" width="898" height="218" rx="14" fill="#091724" stroke="#2185a4"/>
+<path d="M1 42H899" stroke="#23546a"/><circle cx="24" cy="22" r="5" fill="#ff6b6b"/><circle cx="42" cy="22" r="5" fill="#f0c66b"/><circle cx="60" cy="22" r="5" fill="#46dcf4"/>
+<g font-family="monospace" font-size="16"><text x="85" y="28" fill="#79cde1">JARVIS://development-terminal v2.0</text>
+<text x="26" y="92" fill="#46dcf4">$</text><text x="45" y="92" fill="#e7fbff">initialize --public-only</text>
+<text x="26" y="124" fill="#79cde1">[01] AI &amp; AUTOMATION</text><text x="26" y="152" fill="#79cde1">[02] BUILD / TEST / REVIEW / EVOLVE</text><text x="26" y="180" fill="#79cde1">[03] PUBLIC TELEMETRY / PRIVACY FIRST</text>
+<rect x="26" y="199" width="848" height="2" fill="#23546a"/><rect x="26" y="198" width="100" height="4" fill="#46dcf4"><animate attributeName="x" values="26;774;26" dur="6s" repeatCount="indefinite"/></rect>
+<text x="45" y="92" fill="#46dcf4" clip-path="url(#typing)">initialize --public-only</text></g>
+</svg>
